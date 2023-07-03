@@ -1,0 +1,6 @@
+5,200,0
+moiz ,100
+moiz ,0
+rf ,200
+moiz ,0
+moiz ,0
