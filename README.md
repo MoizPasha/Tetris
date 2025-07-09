@@ -4,15 +4,15 @@ A modern Tetris clone built with C++ using Object-Oriented Programming principle
 
 ---
 
-## 🚀 Features
+## Features
 
-- 🎲 Classic Tetris gameplay with intuitive controls
-- 🔁 Next-piece preview
-- ⬆️ Hard drop / Soft drop support
-- ⏸️ Pause and restart functionality
-- 📦 Modular OOP architecture for easy extension
-- 🖼️ Smooth rendering using SFML 2.5.1
-- 🎵 (Optional) Background music and SFX support
+- Classic Tetris gameplay with intuitive controls
+- Next-piece preview
+- Hard drop / Soft drop support
+- Pause and restart functionality
+- Modular OOP architecture for easy extension
+- Smooth rendering using SFML 2.5.1
+- Stores and Displays Highscores
 
 ---
 
